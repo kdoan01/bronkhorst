@@ -1,5 +1,5 @@
 # bronkhorst
-Looking to get more familiar with Bronkhorst PyPi propar module
+Looking to get more familiar with Bronkhorst PyPI propar module
 
 python.py runs the pump at 800 baudrates for 10 seconds, which works fine.
 
