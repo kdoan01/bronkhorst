@@ -1,0 +1,4 @@
+{'data': 4.308645248413086, 'action': 'write', 'proc_nr': 33, 'proc_index': 161, 'parm_type': 64, 'parm_nr': 0, 'parm_index': 192, 'proc_chained': True, 'parm_chained': True, 'parm_size': 4, 'status': 0, 'status_pos': 7}
+{'data': 0.0, 'action': 'write', 'proc_nr': 33, 'proc_index': 161, 'parm_type': 64, 'parm_nr': 3, 'parm_index': 195, 'proc_chained': True, 'parm_chained': True, 'parm_size': 4, 'status': 0, 'status_pos': 12}
+{'data': 23.041797637939453, 'action': 'write', 'proc_nr': 33, 'proc_index': 161, 'parm_type': 64, 'parm_nr': 7, 'parm_index': 71, 'proc_chained': True, 'parm_chained': False, 'parm_size': 4, 'status': 0, 'status_pos': 17}
+{'data': 0, 'action': 'write', 'proc_nr': 114, 'proc_index': 114, 'parm_type': 64, 'parm_nr': 1, 'parm_index': 65, 'proc_chained': False, 'parm_chained': False, 'parm_size': 4, 'status': 0, 'status_pos': 23}
