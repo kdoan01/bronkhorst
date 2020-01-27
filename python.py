@@ -18,7 +18,7 @@ values = cori_flow.read_parameters(params)
 
 # The setpoint and measure parameters are available
 # as properties, for ease of use.
-
+#run the pump at 800 baudrates for 10 seconds
 t_end = time.time() + 10
 while time.time() < t_end:
     cori_flow.setpoint = 800
